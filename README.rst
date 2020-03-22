@@ -6,6 +6,11 @@ pydivert
 Python bindings for WinDivert_, a Windows driver that allows user-mode applications to
 capture/modify/drop network packets sent to/from the Windows network stack.
 
+Changes
+------------
+
+https://github.com/BoredHackerBlog/pydivert/commit/6801aa436af9be31ca9d49521aa8b48052fea47d
+
 Requirements
 ------------
 
